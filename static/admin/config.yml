@@ -180,7 +180,6 @@ collections:
                 widget: "select"
                 options:
                   [
-                    "facebook",
                     "twitter",
                     "linkedin",
                     "youtube",

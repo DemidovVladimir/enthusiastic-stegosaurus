@@ -107,13 +107,7 @@ const HomePage = ({ data }) => {
         ) : (
           ""
         )}
-        {icons.icon === "instagram" ? (
-          <Link to={icons.url} target="_blank">
-            <RiInstagramFill />
-          </Link>
-        ) : (
-          ""
-        )}
+       
         {icons.icon === "github" ? (
           <Link to={icons.url} target="_blank">
             <RiGithubFill />

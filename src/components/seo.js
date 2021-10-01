@@ -43,7 +43,7 @@ const SEO = ({ title, description, image, article }) => {
       {seo.title && <meta property="og:title" content={seo.title} />}
 
       {seo.description && (
-        <meta property="og:description" content={seo.description} />
+        <meta property="og:description" content='test' />
       )}
 
       {seo.image && <meta property="og:image" content={seo.image} />}

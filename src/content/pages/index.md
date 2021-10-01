@@ -9,5 +9,6 @@ cta:
   ctaLink: /about
 socialIcons: 
   
+
 ---
 He is a rock solid, performant and super curious Software Engineer at Sony Interactive Entertainment. 

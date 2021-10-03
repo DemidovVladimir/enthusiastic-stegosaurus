@@ -93,3 +93,6 @@ models:
       - name: url
         type: url
         label: url
+  soc:
+    type: object
+    label: soc

@@ -97,5 +97,5 @@ models:
     type: object
     label: soc
     fields:
-      - name: ''
+      - name: soc
         type: string

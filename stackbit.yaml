@@ -104,4 +104,4 @@ models:
       - socialmedia.json
   socialmedia:
     type: data
-    label: Icons
+    label: socialmedia

@@ -67,13 +67,6 @@ models:
         label: cta
         models:
           - cta
-      - name: social
-        type: list
-        items:
-          type: model
-          models:
-            - soc
-        label: social
   cta:
     type: object
     label: cta

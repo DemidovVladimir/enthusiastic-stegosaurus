@@ -70,7 +70,8 @@ models:
       - name: social
         type: list
         items:
-          type: string
+          type: model
+          models: []
         label: social
   cta:
     type: object

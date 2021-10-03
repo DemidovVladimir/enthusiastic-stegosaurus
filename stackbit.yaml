@@ -95,6 +95,7 @@ models:
         type: url
         label: url
     folder: src/util
+    match: socialmedia.json
   soc:
     type: object
     label: soc

@@ -96,3 +96,6 @@ models:
   soc:
     type: object
     label: soc
+    fields:
+      - name: ''
+        type: string

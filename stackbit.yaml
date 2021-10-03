@@ -99,4 +99,5 @@ models:
         type: list
         label: socialIcons
         items:
-          type: string
+          type: reference
+          models: []

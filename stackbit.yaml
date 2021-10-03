@@ -83,3 +83,4 @@ models:
     fields:
       - name: icon
         type: string
+        label: icon

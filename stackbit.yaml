@@ -100,4 +100,6 @@ models:
       - name: soc
         type: object
         label: soc
-        fields: []
+        fields:
+          - name: ''
+            type: string

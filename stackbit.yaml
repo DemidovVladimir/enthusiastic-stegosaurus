@@ -104,5 +104,5 @@ models:
           - name: icon
             type: string
             label: icon
-          - name: ''
+          - name: url
             type: string

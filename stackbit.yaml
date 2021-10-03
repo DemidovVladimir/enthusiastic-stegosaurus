@@ -101,5 +101,5 @@ models:
         items:
           type: object
           fields:
-            - name: ''
+            - name: icon
               type: string

@@ -93,3 +93,5 @@ models:
       - name: url
         type: url
         label: url
+    singleInstance: true
+    file: ''

@@ -86,7 +86,7 @@ models:
         label: ctaLink
   socialIcon:
     type: data
-    label: social
+    label: socialIcons
     fields:
       - name: icon
         type: string

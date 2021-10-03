@@ -100,4 +100,6 @@ models:
         label: socialIcons
         items:
           type: object
-          fields: []
+          fields:
+            - name: ''
+              type: string

@@ -101,5 +101,5 @@ models:
         type: object
         label: soc
         fields:
-          - name: ''
+          - name: icon
             type: string

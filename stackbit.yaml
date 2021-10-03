@@ -88,22 +88,9 @@ models:
         type: url
         label: url
     description: social icon
-  socs:
-    type: data
-    label: socs
-    fields:
-      - name: socialIcons
-        type: list
-        label: socialIcons
-        items:
-          type: model
-          models:
-            - social
-    folder: src/util
-    match:
-      - socialmedia.json
   socialmedia:
     type: data
     label: socialmedia
     folder: src/util
-    match: socialmedia.json
+    match:
+      - socialmedia.json

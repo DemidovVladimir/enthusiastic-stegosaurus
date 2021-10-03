@@ -94,6 +94,7 @@ models:
       - name: url
         type: url
         label: url
+    folder: src/util
   soc:
     type: object
     label: soc

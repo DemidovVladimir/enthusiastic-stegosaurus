@@ -99,5 +99,5 @@ models:
         type: list
         label: socialIcons
         items:
-          type: reference
+          type: model
           models: []

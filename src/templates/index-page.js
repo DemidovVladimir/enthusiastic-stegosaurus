@@ -43,9 +43,6 @@ export const pageQuery = graphql`
           ctaText
           ctaLink
         }
-        socs {
-          
-        }
       }
     }
     posts: allMarkdownRemark(

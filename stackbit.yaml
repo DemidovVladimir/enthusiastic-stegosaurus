@@ -97,6 +97,6 @@ models:
     fields:
       - name: socialIcons
         type: model
-        label: Icons
+        label: socialIcons
         models:
           - social

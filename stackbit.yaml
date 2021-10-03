@@ -77,14 +77,3 @@ models:
       - name: ctaLink
         type: url
         label: ctaLink
-  social:
-    type: object
-    label: social
-    fields:
-      - name: icon
-        type: string
-        label: icon
-      - name: url
-        type: url
-        label: url
-    description: social icon

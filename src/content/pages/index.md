@@ -7,7 +7,6 @@ featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
   ctaText: More info
   ctaLink: /about
-social: src/util/socialmedia.json
 
 ---
 He is a rock solid, performant and super curious Software Engineer at Sony Interactive Entertainment. 

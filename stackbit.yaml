@@ -68,8 +68,9 @@ models:
         models:
           - cta
       - name: social
-        type: model
-        models: []
+        type: list
+        items:
+          type: string
   cta:
     type: object
     label: cta

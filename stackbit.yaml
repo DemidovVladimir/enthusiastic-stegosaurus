@@ -80,3 +80,6 @@ models:
   social:
     type: data
     label: social
+    fields:
+      - name: ''
+        type: string

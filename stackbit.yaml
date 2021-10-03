@@ -87,3 +87,4 @@ models:
       - name: url
         type: url
         label: url
+    folder: src/util

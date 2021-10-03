@@ -105,4 +105,4 @@ models:
   socialmedia:
     type: data
     label: socialmedia
-    folder: ../util
+    folder: util

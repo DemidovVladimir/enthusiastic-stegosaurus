@@ -87,6 +87,7 @@ models:
       - name: url
         type: url
         label: url
+    description: facebook social icon
   socs:
     type: data
     label: socs

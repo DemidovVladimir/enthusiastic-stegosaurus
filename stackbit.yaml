@@ -100,8 +100,10 @@ models:
           models:
             - social
     folder: src/util
-    match: socialmedia.json
+    match:
+      - socialmedia.json
   socialmedia:
     type: data
     label: socialmedia
     folder: util
+    match: socialmedia.json

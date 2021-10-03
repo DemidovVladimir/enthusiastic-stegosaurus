@@ -67,6 +67,8 @@ models:
         label: cta
         models:
           - cta
+      - name: ''
+        type: string
   cta:
     type: object
     label: cta
@@ -88,4 +90,5 @@ models:
         type: url
         label: url
     folder: src/util
-    match: socialmedia.json
+    match:
+      - socialmedia.json

@@ -81,5 +81,5 @@ models:
     type: data
     label: social
     fields:
-      - name: ''
+      - name: icon
         type: string

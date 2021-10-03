@@ -86,3 +86,4 @@ models:
         label: icon
       - name: url
         type: url
+        label: url

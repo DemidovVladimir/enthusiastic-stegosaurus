@@ -93,5 +93,3 @@ models:
       - name: url
         type: url
         label: url
-    match:
-      - socialmedia.json

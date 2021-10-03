@@ -104,4 +104,4 @@ models:
       - socialmedia.json
   Icons:
     type: data
-    label: markdownremark
+    label: Icons

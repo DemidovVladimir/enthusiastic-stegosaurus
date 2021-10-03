@@ -88,21 +88,3 @@ models:
         type: url
         label: url
     description: social icon
-  socialmedia:
-    type: data
-    label: socialmedia
-    match:
-      - socialmedia.json
-    fields:
-      - name: socialIcons
-        type: list
-        label: socialIcons
-        items:
-          type: object
-          fields:
-            - name: icon
-              type: string
-              label: icon
-            - name: url
-              type: url
-              label: url

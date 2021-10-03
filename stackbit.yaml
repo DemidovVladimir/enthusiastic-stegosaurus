@@ -98,4 +98,5 @@ models:
       - name: Icons
         type: model
         label: Icons
-        models: []
+        models:
+          - social

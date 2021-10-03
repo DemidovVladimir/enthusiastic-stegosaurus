@@ -100,4 +100,5 @@ models:
         label: socialIcons
         items:
           type: reference
-          models: []
+          models:
+            - socialmedia

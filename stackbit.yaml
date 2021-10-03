@@ -98,5 +98,6 @@ models:
     label: soc
     fields:
       - name: soc
-        type: string
+        type: object
         label: soc
+        fields: []

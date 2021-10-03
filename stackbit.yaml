@@ -105,5 +105,5 @@ models:
   socialmedia:
     type: data
     label: socialmedia
-    folder: ./util
+    folder: src/util
     match: socialmedia.json

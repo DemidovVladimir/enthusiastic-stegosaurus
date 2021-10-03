@@ -99,6 +99,5 @@ models:
         type: list
         label: socialIcons
         items:
-          type: model
-          models:
-            - social
+          type: object
+          fields: []

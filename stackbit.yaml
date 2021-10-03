@@ -77,7 +77,7 @@ models:
       - name: ctaLink
         type: url
         label: ctaLink
-  facebook:
+  socialIcon:
     type: object
     label: facebook
     fields:
@@ -98,7 +98,7 @@ models:
         items:
           type: model
           models:
-            - facebook
+            - socialIcon
     folder: src/util
     match:
       - socialmedia.json

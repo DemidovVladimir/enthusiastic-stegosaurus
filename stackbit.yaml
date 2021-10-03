@@ -95,7 +95,7 @@ models:
     match:
       - socialmedia.json
     fields:
-      - name: Icons
+      - name: socialIcons
         type: model
         label: Icons
         models:

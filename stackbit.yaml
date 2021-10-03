@@ -71,7 +71,8 @@ models:
         type: list
         items:
           type: model
-          models: []
+          models:
+            - soc
         label: social
   cta:
     type: object

@@ -79,7 +79,7 @@ models:
         label: ctaLink
   socialIcon:
     type: object
-    label: facebook
+    label: socialIcon
     fields:
       - name: icon
         type: string

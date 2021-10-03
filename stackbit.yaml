@@ -99,3 +99,4 @@ models:
     fields:
       - name: soc
         type: string
+        label: soc

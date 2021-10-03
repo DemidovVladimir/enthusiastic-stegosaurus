@@ -102,6 +102,6 @@ models:
     folder: src/util
     match:
       - socialmedia.json
-  markdownremark:
+  Icons:
     type: data
     label: markdownremark
